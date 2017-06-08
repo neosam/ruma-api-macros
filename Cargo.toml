@@ -6,10 +6,7 @@ version = "0.1.0"
 [dependencies]
 quote = "0.3.15"
 synom = "0.11.3"
-
-[dependencies.hyper]
-git = "https://github.com/hyperium/hyper"
-rev = "fed04dfb58e19b408322d4e5ca7474871e848a35"
+hyper = "0.10"
 
 [dependencies.ruma-api]
 git = "https://github.com/ruma/ruma-api"
